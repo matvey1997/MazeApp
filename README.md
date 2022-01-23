@@ -1,1 +1,1 @@
-# ChessApp
+# MazeApp
