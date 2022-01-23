@@ -5,8 +5,8 @@
 
 Программы сервера и клиента на Pyhton3 запускаются соответствующими коммандами:
 ```bash
-python3 server/server.py --host localhost --port 8888
+python3 server.py --host localhost --port 8888
 ```
 ```bash
-python3 server/server.py --host localhost --port 8888
+python3 client.py --host localhost --port 8888
 ```
